@@ -4,10 +4,10 @@ import argparse
 import os
 
 DATABASE = {
-    'host': '172.105.42.216',
-    'user': 'college1_guardia',
-    'password': 'Guardia@sss3',
-    'database': 'college1_guardia'
+    'host':'         ,
+    'user':'        ',
+    'password':'        ',
+    'database':'      '
 }
 HAAR_CASCADE_MODEL = 'resources/haarcascade_frontalface_default.xml'
 API_KEY = "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" # os.environ.get('API_KEY')
