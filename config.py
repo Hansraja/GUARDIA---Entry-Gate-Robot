@@ -9,14 +9,14 @@ DATABASE = {
     'password':'        ',
     'database':'      '
 }
-HAAR_CASCADE_MODEL = 'resources/haarcascade_frontalface_default.xml'
-API_KEY = "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" # os.environ.get('API_KEY')
-SPEECH_KEY = 'EMTL0Hqwht6OrTiiNNfKau9hmToD5IqYSPgdyzLE1t17TjKAd0JUJQQJ99AKACYeBjFXJ3w3AAAYACOGzeyH' # os.environ.get('SPEECH_KEY')
+HAAR_CASCADE_MODEL = ''
+API_KEY = "" # os.environ.get('API_KEY')
+SPEECH_KEY = '' # os.environ.get('SPEECH_KEY')
 SPEECH_REGION = 'eastus' # os.environ.get('SPEECH_REGION')
 SPEECH_LANG = 'en-IN'
 SPEECH_VOICE = 'en-IN-AashiNeural' # 'en-US-AvaMultilingualNeural'
 FACE_DISTANCE = 1 # in meters
-APP_SECRET_KEY = "96b1031590dfb8ed5429aa840ec152355ef995ad4976b4fd2de227077b3fc660"
+APP_SECRET_KEY = ""
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description='Command portal for the application.')
