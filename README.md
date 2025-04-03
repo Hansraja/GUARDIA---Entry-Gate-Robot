@@ -2,6 +2,10 @@
 
 An AI-powered security and assistant system utilizing facial recognition, speech recognition, and real-time interaction.
 
+## 📢 Explore More on LinkedIn!
+Check out our detailed project insights, media, and updates on LinkedIn <b>project section</b> . Click the link below to learn more about IntelliTeach and see it in action!
+https://www.linkedin.com/in/hanssaini2005/
+
 ## Features
 
 - **User Detection and Recognition**
